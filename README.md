@@ -7,7 +7,7 @@
 
 ### 🔧 Tecnologias que estou aprendendo atualmente:
 
-**Frontend:** C#
+**Back-end:** C#
 
 **Banco de Dados:** MySQL
 
